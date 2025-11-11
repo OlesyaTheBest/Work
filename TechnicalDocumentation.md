@@ -1,6 +1,6 @@
 # My View of Ideal Good Documentation
 
-I believe that technical documentation is an essential part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks: *“Okay, but where’s the manual?”*  
+I believe that technical documentation is an essential part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks: *“Okay, where’s the manual?”*  
 Ideal technical documentation should enhance the overall user experience by helping people understand how to use the product and guiding them through confusing or complex situations. Documentation must be clear, structured, and concise - only the information that truly matters. Wherever possible, it should be supported by visuals such as screenshots, diagrams, or tables, and key points should stand out through typography or color-coded callouts.  
 
 In my work, I’ve often studied documentation from companies like **[Microsoft](https://learn.microsoft.com/en-us/docs/)**, **Apple**, **GitHub**, and **[Notion](https://www.notion.com/)**. I wanted to see how large, mature organizations approach structure and clarity, and to adopt their best practices to improve the quality of my own documentation.
