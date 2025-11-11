@@ -30,8 +30,7 @@ I believe that writing should be **concise** and written in an **active voice**.
 
 ## Content Quality
 
-Every detail must be **accurate, version-aware, and testable**. Code snippets should compile; endpoints should work. Each update should trace back to product changes, ensuring no stale content.
-
+Every detail must be **accurate, version-aware, and testable**.
 ## Visuals & Formatting
 
 Use **code blocks, tables, UI screenshots, and diagrams** to illustrate complex flows. Visual cues—like callouts or syntax highlighting—help users scan and learn faster.
