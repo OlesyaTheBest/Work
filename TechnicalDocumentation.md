@@ -25,7 +25,7 @@ Logical navigation and consistent naming allow users to find answers fast.
 
 ## Style & Tone
 
-I believe that writing should be **concise** and written in an **active voice**. Each sentence should clearly convey the writer's intent, context, or action. It's important to use consistent terminology, a second-person ("you") perspective, and short sentences to reduce cognitive load. The tone should be professional and approachable, with a focus on the developer experience, rather than marketing.
+I believe that writing should be **concise** and use the **active voice**. Each sentence should clearly convey the writer's intent, context, or action. It's important to use consistent terminology, a second-person ("you") perspective, and short sentences to reduce cognitive load. The tone should be professional and approachable, with a focus on the developer experience, rather than marketing.
 
 ## Content Quality
 
