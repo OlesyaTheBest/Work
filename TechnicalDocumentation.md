@@ -7,7 +7,7 @@ In my work, I’ve often studied documentation from companies like **[Microsoft]
 
 ## Structure
 
-An ideal documentation set follows a predictable hierarchy:
+An ideal documentation should follow a clear and consistent structure:
 1. **Overview:** Defines purpose, audience, and core concepts.  
 2. **Setup:** Provides step-by-step installation and configuration.  
 3. **Guides & Tutorials:** Teach common workflows through examples.  
